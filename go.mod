@@ -1,4 +1,4 @@
-module protos
+module github.com/Y-Humble/protos
 
 go 1.23.2
 
